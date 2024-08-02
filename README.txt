@@ -1,2 +1,2 @@
-hello everybody
-so uhh just run RUNAFTSETUP.py if you have python
+- hello everybody
+- so uhh just run RUNAFTSETUP.py if you have python
