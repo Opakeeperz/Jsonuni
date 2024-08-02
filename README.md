@@ -6,4 +6,4 @@
 # Install python if you dont have it
 - click this [markdown link](https://www.python.org)
 - from that MD link click downloads->download for<-your OS->
-<font color="#e8fc03">NOTE: <-your OS-> is the OS your on so like if your on windows it will be "Download for Windows" or if your os is macos it will say "Download for macos" i think you get it.</font>
+<p style="color:blue;">NOTE:<-your OS-> is the OS your on so like if your on windows it will be "Download for Windows" or if your os is macos it will say "Download for macos" i think you get it.</p>
